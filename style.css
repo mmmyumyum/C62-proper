@@ -1,0 +1,25 @@
+body {
+text-align: center;
+}
+
+h1 {
+font-size: 40px;
+font-family: Sedgwick Ave Display, cursive;
+
+font-weight: 300;
+}
+
+#Apps {
+background-color: cadetblue;
+}
+
+#Games{
+background-color: cornflowerblue;
+}
+
+.line {
+height: 6;
+width: 70;
+margin: 8;
+background-color: rgb(0, 0, 0);
+}
